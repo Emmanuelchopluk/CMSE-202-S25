@@ -1,0 +1,13 @@
+{
+  "shell_port": 49721,
+  "iopub_port": 56233,
+  "stdin_port": 40261,
+  "control_port": 53919,
+  "hb_port": 47151,
+  "ip": "127.0.0.1",
+  "key": "4b5e81c1-5a5e9eeec50f248bdfc39122",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/lukemman/new_repo/CMSE-202-S25/hw-02/HW02_Part1-Orbits-SS25-STUDENT.ipynb"
+}

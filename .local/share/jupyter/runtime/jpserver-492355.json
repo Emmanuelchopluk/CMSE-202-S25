@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/lukemman/",
+  "hostname": "127.0.0.1",
+  "password": false,
+  "pid": 492355,
+  "port": 53833,
+  "root_dir": "/home/lukemman",
+  "secure": false,
+  "sock": "",
+  "token": "ee8d4053dcc047ce9e50e6a7f4d4634d",
+  "url": "http://127.0.0.1:53833/user/lukemman/",
+  "version": "2.15.0"
+}

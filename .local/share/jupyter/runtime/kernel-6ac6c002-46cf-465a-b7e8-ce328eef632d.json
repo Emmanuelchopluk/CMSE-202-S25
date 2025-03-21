@@ -1,0 +1,13 @@
+{
+  "shell_port": 57383,
+  "iopub_port": 54347,
+  "stdin_port": 40835,
+  "control_port": 48723,
+  "hb_port": 49981,
+  "ip": "127.0.0.1",
+  "key": "014160fa-61d74b5c8ef5f4d504fdb572",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/lukemman/new_repo/CMSE-202-S25/hw-02/HW02_Part2-Risk-SS25-STUDENT.ipynb"
+}

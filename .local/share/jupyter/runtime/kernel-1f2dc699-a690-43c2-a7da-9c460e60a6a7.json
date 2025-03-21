@@ -1,0 +1,13 @@
+{
+  "shell_port": 52261,
+  "iopub_port": 59467,
+  "stdin_port": 43383,
+  "control_port": 49737,
+  "hb_port": 50923,
+  "ip": "127.0.0.1",
+  "key": "e78a561b-130e444473e44aa731010748",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/lukemman/CMSE202/practice book.ipynb"
+}
